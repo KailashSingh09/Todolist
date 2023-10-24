@@ -11,6 +11,9 @@ main{
     justify-content: center;
     align-items: center;
 }
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 .box{
     width: 700px;
     min-height:500px;
